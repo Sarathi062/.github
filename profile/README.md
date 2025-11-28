@@ -1,4 +1,29 @@
-# 🚀 Welcome to **Yashraj Labs** — Official GitHub Organization
+<div align="center">
+
+<!-- Organization Name -->
+# 🌐 **Yashraj Labs**
+
+<!-- Badges -->
+![Maintainer](https://img.shields.io/badge/maintainer-Yashraj%20Dhamale-blue?style=for-the-badge&logo=github)
+![Organization](https://img.shields.io/badge/type-Organization-purple?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-10+-brightgreen?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-MERN%20%7C%20AI%20%7C%20Cloud-orange?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open--Source-Yes-success?style=for-the-badge&logo=open-source-initiative)
+![Visitors](https://komarev.com/ghpvc/?username=Sarathi062&style=for-the-badge&color=blue)
+
+<!-- Tech Badges -->
+### 🛠 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+# 🚀 Welcome to **Sarathi** — Official GitHub Organization
 
 <div align="center">
 
@@ -196,32 +221,5 @@ This organization aims to build systems that improve lives, make learning access
 </div>
 
 ---
-<div align="center">
-  <img width="420" src="https://svgshare.com/i/17uA.svg" alt="Yashraj Labs Logo"/>
-</div>
 
-<div align="center">
-
-<!-- Organization Name -->
-# 🌐 **Yashraj Labs**
-
-<!-- Badges -->
-![Maintainer](https://img.shields.io/badge/maintainer-Yashraj%20Dhamale-blue?style=for-the-badge&logo=github)
-![Organization](https://img.shields.io/badge/type-Organization-purple?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects-10+-brightgreen?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-MERN%20%7C%20AI%20%7C%20Cloud-orange?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open--Source-Yes-success?style=for-the-badge&logo=open-source-initiative)
-![Visitors](https://komarev.com/ghpvc/?username=Sarathi062&style=for-the-badge&color=blue)
-
-<!-- Tech Badges -->
-### 🛠 Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
 
