@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Organization Name -->
-# 🌐 **Yashraj Labs**
+# 🌐 **Sarathi**
 
 <!-- Badges -->
 ![Maintainer](https://img.shields.io/badge/maintainer-Yashraj%20Dhamale-blue?style=for-the-badge&logo=github)
@@ -23,21 +23,12 @@
 
 </div>
 
-# 🚀 Welcome to **Sarathi** — Official GitHub Organization
-
-<div align="center">
-
-### **Innovating with MERN · Cloud · AI · Real-Time Systems**
-
-<img src="https://komarev.com/ghpvc/?username=Sarathi062&label=Organization%20Views&color=blue&style=flat" />
-
-</div>
 
 ---
 
 ## 👋 About This Organization
 
-**Yashraj Labs** is the official GitHub Organization created and maintained by **[Yashraj Dhamale](https://github.com/yashrajdhamale)** —
+**Sarathi** is the official GitHub Organization created and maintained by **[Yashraj Dhamale](https://github.com/yashrajdhamale)** —
 a **Final Year IT Engineer**, **Software Engineer Intern**, **AWS Certified Practitioner**, and **President of the Information Technology Students Association**.
 
 This space brings together all major projects, backend systems, research work, and open-source initiatives managed and developed by Yashraj.
@@ -75,7 +66,7 @@ Together, they represent your **brand as an engineer + builder.**
 
 ## 📦 Flagship Projects in This Organization
 
-Here are the major projects currently developed under **Yashraj Labs**:
+Here are the major projects currently developed under **Sarathi**:
 
 ---
 
